@@ -1,3 +1,2 @@
 # MAD3-Submission-2---Gerodias
-# I DON'T HAVE A GROUP.
 # DID THE 7 TASKS INDIVIDUALLY
