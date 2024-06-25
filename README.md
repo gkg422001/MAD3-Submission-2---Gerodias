@@ -1,2 +1,2 @@
 # MAD3-Submission-2---Gerodias
-# Did the tasks individually
+Did the tasks alone
